@@ -1,0 +1,10 @@
+{
+    "target_group": "@fynerohub",
+    "accounts": [],
+    "settings": {
+        "max_daily_per_account": 80,
+        "delay_between_invites": 30,
+        "auto_rotate": true,
+        "max_concurrent_accounts": 5
+    }
+}
